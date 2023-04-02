@@ -1,0 +1,18 @@
+2023-04-03 00:12:17.493450 - Initialized conversion of CBT426
+2023-04-03 00:12:17.603387 - Received CBT.V504.FILE426.PDS from FILE426.XMI 
+2023-04-03 00:12:17.606002 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:12:17.607091 - Found $$DOC.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/$$DOC
+2023-04-03 00:12:17.608137 - Found #INSTALL.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/#INSTALL
+2023-04-03 00:12:17.609355 - Found #JSASM.jcl (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/#JSASM
+2023-04-03 00:12:17.610463 - Found #JSHELP.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/#JSHELP
+2023-04-03 00:12:17.611414 - Found @FILE426.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/@FILE426
+2023-04-03 00:12:17.612397 - Found DOCJOBNM.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/DOCJOBNM
+2023-04-03 00:12:17.613450 - Found FINDASCB.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/FINDASCB
+2023-04-03 00:12:17.614426 - Found HACSAW.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/HACSAW
+2023-04-03 00:12:17.615478 - Found IGC0020H.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/IGC0020H
+2023-04-03 00:12:17.616427 - Found JOBNAME.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/JOBNAME
+2023-04-03 00:12:17.617653 - Found JSTATUS.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/JSTATUS
+2023-04-03 00:12:17.618632 - Found RECEVSRB.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/RECEVSRB
+2023-04-03 00:12:17.619716 - Found REGS.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/REGS
+2023-04-03 00:12:17.621048 - Found STATJES2.txt (text/plain) in CBT.V504.FILE426.PDS, moved to PDS/STATJES2
+2023-04-03 00:12:17.621061 - Found USERMOD.bin containing application/octet-stream, moved to PDS/USERMOD
